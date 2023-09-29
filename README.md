@@ -6,5 +6,7 @@ Code is copied from [Ksenia-K](https://codepen.io/ksenia-k/pen/rNoBgbV) codepen.
 
 ### DEMO : 
 
-<iframe height="300" src="https://codepen.io/ksenia-k/pen/rNoBgbV?height=300" frameborder="0"></iframe>
+
+
+https://github.com/shloksuman/smooth-cursor/assets/77777064/be8678b9-b407-45f4-8c90-61462674d3b6
 
